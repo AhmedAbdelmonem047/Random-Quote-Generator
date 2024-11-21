@@ -29,7 +29,7 @@ const quotes = [
     { 'quote': 'Be yourself; everyone else is already taken.', 'author': 'Oscar Wilde' },
     { 'quote': 'Two things are infinite: the universe and human stupidity; and I\'m not sure about the universe.', 'author': ' Albert Einstein' },
     { 'quote': 'The best revenge is massive success.', 'author': 'Frank Sinatra' },
-    { 'quote': 'You know you\re in love when you can\'t fall asleep because reality is finally better than your dreams.', 'author': 'Dr. Seuss' },
+    { 'quote': 'You know you\'re in love when you can\'t fall asleep because reality is finally better than your dreams.', 'author': 'Dr. Seuss' },
     { 'quote': 'You only live once, but if you do it right, once is enough.', 'author': 'Mae West' },
     { 'quote': 'If you tell the truth, you don\'t have to remember anything.', 'author': 'Mark Twain' },
     { 'quote': 'The only true wisdom is in knowing you know nothing.', 'author': 'Socrates' },
